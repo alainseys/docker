@@ -1,0 +1,3 @@
+[submodule "docker-netbox"]
+	path = docker-netbox
+	url = git@github.com:alainseys/docker-netbox.git
