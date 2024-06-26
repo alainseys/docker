@@ -1,3 +1,6 @@
 [submodule "docker-netbox"]
 	path = docker-netbox
 	url = git@github.com:alainseys/docker-netbox.git
+[submodule "docker-wordpress"]
+	path = docker-wordpress
+	url = git@github.com:alainseys/docker-wordpress.git
