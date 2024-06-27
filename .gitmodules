@@ -4,3 +4,6 @@
 [submodule "docker-wordpress"]
 	path = docker-wordpress
 	url = git@github.com:alainseys/docker-wordpress.git
+[submodule "docker-vaultwarden"]
+	path = docker-vaultwarden
+	url = git@github.com:alainseys/docker-vaultwarden.git
